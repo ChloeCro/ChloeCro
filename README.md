@@ -1,4 +1,4 @@
-## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1643515231/12491/waveboi.gif?1643515231" width="25"/>
 
 <!--
 **ChloeCro/ChloeCro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
