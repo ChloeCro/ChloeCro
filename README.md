@@ -1,6 +1,6 @@
 ### Hi there <img src="https://emojis.slackmojis.com/emojis/images/1643515231/12491/waveboi.gif?1643515231" width="25"/>
 I'm **Chloé**, a Data Scientist from Maastricht, The Netherlands.
-
+<!---
 ### My Interests and Background 🚀
 
 I'm passionate about **data science**, with a special focus on:
@@ -23,3 +23,4 @@ Outside of work, I’m constantly exploring new technologies and developing my s
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/chloe-crombach-429a79197/)
+--->
