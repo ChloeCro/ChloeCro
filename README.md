@@ -3,9 +3,7 @@ I'm **Chloé**, a Data Scientist from Maastricht, The Netherlands.
 
 ### My Interests and Background 🚀
 
-I'm passionate about **data science**, with a special focus on:
-- **Natural Language Processing (NLP)** 🗣️
-- **Computer Vision** 👁️
+I'm passionate about **data science**, with a special focus on **Natural Language Processing (NLP)** 🗣️
 
 I thrive on building data-driven solutions that leverage AI and machine learning to solve complex problems. I enjoy exploring cutting-edge research in these areas and integrating them into practical applications.
 
