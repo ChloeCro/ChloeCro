@@ -9,7 +9,7 @@ I thrive on building data-driven solutions that leverage AI and machine learning
 
 ### Work Experience 💼
 
-- **Previous**: Research Assistant at [Maastricht Law & Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab), where I contributed to a [published paper](https://ebooks.iospress.nl/volumearticle/65592) titled *Centrality Scores and Precedent Value in Legal Network Analysis*. The research explored the use of centrality measures to calculate the precedent value in citation networks of judgments, particularly focusing on the European Court of Human Rights (ECtHR). We found that various network centrality measures correlated reasonably with proxies for precedent value, with Degree being a stable indicator across networks. 📜
+- **Previous**: Research Assistant at [Maastricht Law & Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab), where I contributed to a [published paper](https://ebooks.iospress.nl/volumearticle/65592) titled *Centrality Scores and Precedent Value in Legal Network Analysis*. 📜
 - **Current**: Data Scientist at [**Mercedes Benz Customer Assistance Center**](https://cac.mercedes-benz.com/) (CAC) in Maastricht. 🚗 Here, I work on delivering high-quality data products and optimizing customer experience through data.
 
 ### Hobbies & Side Projects 🎮
