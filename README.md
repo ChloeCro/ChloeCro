@@ -5,8 +5,6 @@ I'm **Chloé**, a Data Scientist from Maastricht, The Netherlands.
 
 I'm passionate about **data science**, with a special focus on **Natural Language Processing (NLP)** 🗣️
 
-I thrive on building data-driven solutions that leverage AI and machine learning to solve complex problems. I enjoy exploring cutting-edge research in these areas and integrating them into practical applications.
-
 ### Work Experience 💼
 
 - **Previous**: Research Assistant at [Maastricht Law & Tech Lab](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab), where I contributed to a [published article](https://cris.maastrichtuniversity.nl/en/publications/centrality-scores-and-precedent-value-in-legal-network-analysis) titled *Centrality Scores and Precedent Value in Legal Network Analysis*. 📜
